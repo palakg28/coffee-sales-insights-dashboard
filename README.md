@@ -38,7 +38,8 @@ This project demonstrates how I can **bridge the gap between raw data and busine
 
 ## 📂 Files in Repository  
 - `Coffee_Sales_Dashboard.xlsx` → The interactive dashboard file.  
-- `README.md` → Project documentation (this file).  
+- `README.md` → Project documentation (this file).
+- `Excel-Dashboard.png` → Dashboard preview
 
 ---
 
