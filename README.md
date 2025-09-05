@@ -2,7 +2,7 @@
 **Turning Raw Sales Data Into Actionable Insights with Excel**  
 
 ## 📌 Project Overview  
-This project showcases my ability to build a **professional, interactive Excel dashboard** that transforms complex datasets into clear business insights. Using advanced Excel functions and data modeling techniques, I developed a **Coffee Sales Dashboard** that helps track and analyze sales across time, roast types, sizes, and customer segments.  
+This project showcases a **professional, interactive Excel dashboard** that transforms complex datasets into clear business insights. Using advanced Excel functions and data modeling techniques, I developed a **Coffee Sales Dashboard** that helps track and analyze sales across time, roast types, sizes, and customer segments.  
 
 The dashboard enables quick decision-making by giving managers a single, dynamic view of KPIs such as:  
 - **Sales trends over time**  
@@ -33,7 +33,7 @@ This project demonstrates how I can **bridge the gap between raw data and busine
 ---
 
 ## 📊 Dashboard Preview  
-![Coffee Dashboard Screenshot](insert-your-screenshot-link-here)  
+
 
 ---
 
@@ -50,6 +50,12 @@ This project demonstrates how I can **bridge the gap between raw data and busine
 
 ---
 
-## 👩‍💻 Author  
-**Palak Gupta**  
-Math–Computer Science @ UC San Diego | Data & Business Analytics Enthusiast  
+## ☕ About Me
+
+Hi! I’m **Palak Gupta**, a Mathematics–Computer Science student with a deep interest in data analytics, business intelligence, and data engineering. I enjoy building real-world projects that combine technical skill with business insight, using tools like SQL, Docker, Notion, and automation platforms like n8n.
+
+📫 **Let’s connect**:  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/palakgupta28/)  
+- 📧 [palakgupta0428@gmail.com](mailto:palakgupta0428@gmail.com)  
+
+---
