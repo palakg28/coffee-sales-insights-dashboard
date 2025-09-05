@@ -33,7 +33,10 @@ This project demonstrates how I can **bridge the gap between raw data and busine
 ---
 
 ## 📊 Dashboard Preview  
-![Coffee Sales Dashboard](Excel%20Dashboard.png)
+
+p align="center">
+  <img src="Excel%20Dashboard.png" alt="Coffee Sales Dashboard" width="800"/>
+</p>
 
 ---
 
