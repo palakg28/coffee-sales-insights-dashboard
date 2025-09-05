@@ -33,7 +33,7 @@ This project demonstrates how I can **bridge the gap between raw data and busine
 ---
 
 ## 📊 Dashboard Preview  
-
+![Coffee Sales Dashboard](Excel%20Dashboard.png)
 
 ---
 
