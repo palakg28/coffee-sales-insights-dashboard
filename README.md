@@ -36,13 +36,6 @@ This project demonstrates how I can **bridge the gap between raw data and busine
 ![Coffee Sales Dashboard](Excel-Dashboard.png)
 ---
 
-## 💡 Key Takeaways  
-- Advanced Excel functions (XLOOKUP, INDEX-MATCH) can replicate relational database joins inside spreadsheets.  
-- Visual interactivity (slicers, timelines, charts) makes insights more accessible to non-technical stakeholders.  
-- Strong data modeling in Excel lays the foundation for scaling into BI tools like Power BI or Tableau.  
-
----
-
 ## 📂 Files in Repository  
 - `Coffee_Sales_Dashboard.xlsx` → The interactive dashboard file.  
 - `README.md` → Project documentation (this file).  
